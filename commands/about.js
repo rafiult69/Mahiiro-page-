@@ -1,5 +1,5 @@
 module.exports = {
-  description: "What is WieAI?",
+  description: "What is Axel?",
   async run({ api, send, admin }){
     await send({
       attachment: {
